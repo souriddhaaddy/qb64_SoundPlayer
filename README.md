@@ -4,7 +4,7 @@ Lightweight SoundPlayer designed to play audio files with basic UI
 
 Features
 
-1.Play mp3,ogg,wav files
+1.Play mp3 , ogg , wav files
 
 2.Basic functionality such as pause , play , volume control , playlist , control left and right audio
 
@@ -12,9 +12,9 @@ Features
 
 How to run ?
 
-Use the setup , files will be extracted at your desired location.Shortcut will be added to desktop
+Use the setup , files will be extracted at your desired location . Shortcut will also be added to desktop .
 
-Screenshots are posted 
+Screenshots are posted in the 'Screenshots' folder.
 
 ##License
 
